@@ -1,0 +1,49 @@
+html, body {
+    font-size: 20px;
+}
+
+body {
+    font-family: 'San Francisco', 'Avenir Next', sans-serif;
+}
+
+header {
+    color: #fff;
+    text-align: center;
+    padding: 100px 50px;
+    background-color: #3f51b5;
+}
+
+header h1 {
+    font-size: 100px;
+}
+
+header .subtitle {
+    font-size: 40px;
+}
+
+.container {
+    width: 960px;
+    margin: 0px auto;
+}
+
+footer {
+    color: #fff;
+    padding: 50px 0px;
+    background-color: #303F9F;
+    background-color: #3f51b5;
+}
+
+section {
+    padding: 100px 0px;
+    display: flex;
+    border-bottom: 1px solid #b6b6b6;
+}
+
+section img {
+    width: 300px;
+    margin: 0px 50px;
+}
+
+.love {
+    color: #ff5252;
+}
